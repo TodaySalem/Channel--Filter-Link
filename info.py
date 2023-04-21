@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 13682239
+API_HASH     = 9b44ab327b557d4e1f3a477b7bd7013a
+BOT_TOKEN    = 5765404052:AAF2zHGVgRJ9nXQ0mk3D16Wf9f1cmjfTQ4Y
+SESSION      = 1BVtsOK0Bu5sKTEziw8O3ZwEyMeKI5mAPZolYwL3WeD3cueDjDMPdfXR1gHMUN6JhgvtdK1GrqZHFptiy7BwbVXV-VK6-OORC0K-FVHsNz2v4r-7sUNtuTIh7j5c7t3EDo0ZjUfW6vbkjwA5xwvwUWx-8Wosig0Pm9UEucTaJIZhJSWFbOZ_VEJ1cXxP7tPynQpPZNp6lP-JRHvuUPfkiG6II1YtT1q3AHmoXnZpZcE8-BSyVV2tI8fToH3DSlxwI3sBW-2EDD3AuftzfOpV4a7EL62qe8rNKbZq9S-c0FUc6PKhtVF0ie9h9ahUm4s79bAgx8G86qinvNXCFM90H9Vi2lxqstCU=
+DATABASE_URI = mongodb+srv://Tamilcinehub:Tamilcinehub@cluster0.g6pwizd.mongodb.net/?retryWrites=true&w=majority
+LOG_CHANNEL  = -1001892794124
+ADMIN        = 5101420668
+CHANNEL      = "@tamilcinehub"
